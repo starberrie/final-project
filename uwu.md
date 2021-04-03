@@ -5,7 +5,8 @@ final project
 ## What idea(s) do you have for your final project?
 
 -discord bot 
-
+- chess game
+- tic tac toe 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
 ShoyoJiang, zhiyi liu 
